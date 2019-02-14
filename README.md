@@ -2,7 +2,7 @@
 
 
 <h1>Assignment 1</h1>
-<a href="dead link">Click here for CrAzY mAcHiNe</a>
+<a href="https://drive.google.com/file/d/1h3pXMha1M8AkFGrF6JaTwsym2Hjk8K0Z/view?usp=sharing">Click here for CrAzY mAcHiNe</a>
 
 <h1>Assignment 2</h1>
 <a href="https://www.youtube.com/watch?v=m2LBYf1mDKc">Click here for Spaceship Interface</a>
