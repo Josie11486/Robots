@@ -16,3 +16,6 @@
 <h1>Assignment 5</h1>
 <a href="https://www.youtube.com/watch?v=sLzQEc6QKMg">Click here for Color Mixing Lamp 1; </a>
 <a href="https://www.youtube.com/watch?v=7prndfXMroI">Click here for Color Mixing Lamp 2</a>
+
+<h1>Assignment 6</h1>
+<a href="https://docs.google.com/document/d/1Uv0Okb8cDqmgIZYYwew32bNPurJ1uixbpxCN6pAfiws/edit?usp=sharing">Click here for Color Mixing Lamp 2</a>
