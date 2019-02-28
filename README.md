@@ -11,7 +11,7 @@
 <a href="https://docs.google.com/drawings/d/1zXeO_oZjllSLGbfNFW3L1QHmlf4gLuK1GQklKUtUL_0/edit?usp=sharing">User Flow</a>
 
 <h1>Assignment 4</h1>
-<a href="dead link">Love-o-Meter</a>
+<a href="https://www.youtube.com/watch?v=tyn9IssG6Z0">Love-o-Meter</a>
 
 <h1>Assignment 5</h1>
 <a href="https://www.youtube.com/watch?v=sLzQEc6QKMg">Color Mixing Lamp 1; </a>
