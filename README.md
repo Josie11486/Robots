@@ -16,6 +16,6 @@
 <a href="https://www.youtube.com/watch?v=7prndfXMroI">Color Mixing Lamp 2</a>
 
 <h1>Assignment 5</h1>
-<a href="https://docs.google.com/document/d/1_kbu91RiB5alhb3YydLoUkxkjV_P0u-EaWbndnNOUtg/edit?usp=sharing">Knock Lock</a>
-<a href="https://docs.google.com/document/d/1Uv0Okb8cDqmgIZYYwew32bNPurJ1uixbpxCN6pAfiws/edit?usp=sharing">Sensor Walk</a>
+<a href="https://docs.google.com/document/d/1_kbu91RiB5alhb3YydLoUkxkjV_P0u-EaWbndnNOUtg/edit?usp=sharing">Knock Lock;</a>
+<a href="https://docs.google.com/document/d/1Uv0Okb8cDqmgIZYYwew32bNPurJ1uixbpxCN6pAfiws/edit?usp=sharing"> Sensor Walk</a>
 
