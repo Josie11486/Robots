@@ -20,6 +20,6 @@
 <a href="https://docs.google.com/document/d/1Uv0Okb8cDqmgIZYYwew32bNPurJ1uixbpxCN6pAfiws/edit?usp=sharing"> Sensor Walk</a>
 
 <h1>Assignment 6</h1>
-<a href="https://docs.google.com/document/d/1_kbu91RiB5alhb3YydLoUkxkjV_P0u-EaWbndnNOUtg/edit?usp=sharing">Midterm Presentation;</a>
+<a href="https://docs.google.com/presentation/d/1iQtGSc711fJHUzMJAfPqQscBHXtQE9c-lYJhc1EeBwU/edit?usp=sharing">Midterm Presentation;</a>
 
 
