@@ -15,12 +15,12 @@ The project worked properly but it was pretty hard to get it to react smoothly. 
 
 <h2> Images </h2>
 
-// 2 - Progress images
-// 1 - Finished input
-// 1 - Finished output
-// 1 - Finished Breadboard
-
-<img src="1.jpg" style="width:200px;">
+<img src="1.jpg">
+<img src="2.jpg">
+<img src="3.jpg">
+<img src="4.jpg">
+<img src="5.jpg">
+<img src="6.jpg">
 
 
 <h2>Video</h2>
