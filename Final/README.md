@@ -4,21 +4,12 @@
 <h1>The Party Meter by Josie Argento</h1>
 
 <p> 
-Questions
-What is the title of your project?
-Briefly explain why did you want to make this project?
-Talk about what form factor/size your project would ideally be.
-Explain what your input is?
-Explain how a user interacts with your input, What do they do?
-What components did you use?
-Why did you decide to use that component?
-Explain what your output is?
-What components did you use?
-Why did you decide to use that component?
-What parts did you use?
-How does your program work? (Explain your code)
-Reflect on what worked/did not work?
-If you had more time what would you change in your project?
+My project is called the Party Meter. I really wanted to make something with lights that reacts to sound, because I have noticed that the combination of light and sound seems to captivate people (for example, lights in a club or at a concert, or even those little speakers that have lights that move to the music) The part meter has 3 sets of 3 LED's in green, red and yellow that light up depending on the volume level in the room. It also has a meter that indicates changes in volume. Ideally it would be a bit bigger, about the size of a standard toaster, and have a really fun design. The input for the party meter is sound: the volume level in the room. The user can interact with the input by talking, playing music, laughing, puttin on the TV, or prettymuch anything else that creates noise. I used a breadboard, LED's, a sound sensor, a stepper and motor, and lots of wires. I used those components becuase I needed all of them to achieve the final output, which is lights that turn on depending on how loud the noise in the room is and meter that goes up and down with the volume level. 
+  
+My program measures the volume in the room and then converts it into a number that can be interpreted by the other parts. Both the stepper and the LED then respond to those numbers. The Stepper moves one way when the number goes up, and the opposite way when the number goes down. The LED's are set to light up depending on a range of volume, so if the volume is relatively low, only the green lights turn on. If its medium, green and yellow lights turn on, and if its high, green, yellow and red lights turn on. 
+
+The project worked properly but it was pretty hard to get it to react smoothly. For example, the room we were in for the interactive media fair was pretty loud, but the numbers were all over the place. I wish there was a way to find more of an average volume so that the meter interpreted sound more similarly to how a human would. To me, the sound in the room was constant, but to the sensor, there were huge changes in volume from millisecond to millisecond. If I had more time, I would have made the project bigger and prettier, with a better encasing and big, cool lights. Hopefully, I would have found a way to make it react more smoothly as well. 
+  
 </p>
 
 
@@ -28,6 +19,8 @@ If you had more time what would you change in your project?
 // 1 - Finished input
 // 1 - Finished output
 // 1 - Finished Breadboard
+
+<img src="1.jpg" style="width:500px;">
 
 
 <h2>Video</h2>
