@@ -1,8 +1,7 @@
 # CIM-542-Robots
 
 
-<h1>The Party Meter</h1>
-<h2>Josie Argento</h2>
+<h1>The Party Meter by Josie Argento</h1>
 
 <p> 
 Questions
