@@ -22,7 +22,7 @@ If you had more time what would you change in your project?
 </p>
 
 
-<h3> Images </h3>
+<h2> Images </h2>
 
 // 2 - Progress images
 // 1 - Finished input
