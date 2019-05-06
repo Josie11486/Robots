@@ -30,10 +30,10 @@ If you had more time what would you change in your project?
 // 1 - Finished Breadboard
 
 
-<h3>Video</h3>
+<h2>Video</h2>
 <a href="https://youtu.be/k4vKIYBBacI">Watch here!</a>
 
-<h3>The Code</h3>
+<h2>The Code</h2>
 
 <p>
   
