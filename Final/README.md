@@ -20,7 +20,7 @@ The project worked properly but it was pretty hard to get it to react smoothly. 
 // 1 - Finished output
 // 1 - Finished Breadboard
 
-<img src="1.jpg" style="width:500px;">
+<img src="1.jpg" style="width:200px;">
 
 
 <h2>Video</h2>
